@@ -12,11 +12,12 @@ Já estou atuando nas áreas da programação a mais de 3 anos, venho adquirindo
 ## Formação
 
 - **IESB - Instituto de Educação**  
-  Análise e Desenvolvimento de Sistemas
+  Análise e Desenvolvimento de Sistemas  
+  Carga Horária: 2.500 horas
   
-- **BOOTCAMP Full Stack SysMAP**  
-  Carga Horária: 80 horas  
-  Projeto: Full Stack Java Spring
+- **BOOTCAMP Full Stack SysMAP**    
+  Projeto: Full Stack Java Spring     
+  Carga Horária: 80 horas
 
 - **Udemy - Oracle APEX do básico ao avançado**  
   Carga Horária: 10 horas
