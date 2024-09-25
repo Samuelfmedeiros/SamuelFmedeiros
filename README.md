@@ -1,9 +1,9 @@
 # Olá, seja bem vindo!
 
 **Contato:**  
-samuelandrademedeiros@gmail.com
+<p><a href="mailto:samuelandrademedeiros@gmail.com">samuelandrademedeiros@gmail.com</a></p>
 
-[Samuel Andrade Medeiros | LinkedIn](#)
+<p><a href="https://www.linkedin.com/in/samuelandrademedeiros" target="_blank">Samuel Andrade Medeiros | LinkedIn</a></p>
 
 ## Síntese
 
