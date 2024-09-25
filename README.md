@@ -1,6 +1,6 @@
 # Olá, seja bem vindo!
 
-**Contato:**  
+## Contato:  
 <p><a href="mailto:samuelandrademedeiros@gmail.com">samuelandrademedeiros@gmail.com</a></p>
 
 <p><a href="https://www.linkedin.com/in/samuelandrademedeiros" target="_blank">Samuel Andrade Medeiros | LinkedIn</a></p>
