@@ -1,36 +1,36 @@
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Olá, seja bem vindo!</h1></p>
+<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Hello, Welcome!</h1></p>
 
 <p align="center" style="font-size: 16px;">
     <a href="mailto:samuelandrademedeiros@gmail.com">Samuel Andrade Medeiros | Email</a><br>
     <a href="https://www.linkedin.com/in/samuelandrademedeiros" target="_blank">Samuel Andrade Medeiros | LinkedIn</a>
 </p>
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Síntese</h1></p>
+<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Summary</h1></p>
 
-Estou atuando nas áreas da programação a mais de 3 anos, venho adquirindo ao longo da minha vida novas formaçoes e conhecimentos, costumo buscar caminhos soluções de forma ágil e criativa. Atuando em desenvolvimento Full Stack e ferramentas Low-Code. Sou um profissional dedicado, sempre em busca do constante aprimoramento, uma vez que o atual mercado de trabalho é muito dinâmico e versátil.
+I have been working in the programming field for over 3 years, acquiring new skills and knowledge throughout my life. I usually seek solutions in a quick and creative way. I am focused on Full Stack development and Low-Code tools. I am a dedicated professional, always striving for continuous improvement, as the current job market is very dynamic and versatile.
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Formação</h1></p>
+<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Education</h1></p>
 
-- **IESB - Instituto de Educação**  
-  Análise e Desenvolvimento de Sistemas  
-  Carga Horária: 2.500 horas
+- **IESB - Institute of Education**  
+  Systems Analysis and Development  
+  Course Load: 2,500 hours
   
 - **BOOTCAMP Full Stack SysMAP**    
-  Projeto: Full Stack Java Spring     
-  Carga Horária: 80 horas
+  Project: Full Stack Java Spring     
+  Course Load: 80 hours
 
-- **Udemy - Oracle APEX do básico ao avançado**  
-  Carga Horária: 10 horas
+- **Udemy - Oracle APEX from Beginner to Advanced**  
+  Course Load: 10 hours
 
-- **Udemy - Terminal Linux**  
-  Carga Horária: 6 horas
+- **Udemy - Linux Terminal**  
+  Course Load: 6 hours
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Experiência</h1></p>
+<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Experience</h1></p>
 
-- **TRT 10ª Região - Tribunal Regional do Trabalho (Terceirizado) – Brasília (2019-2021)**  
-  Gerenciamento de arquivos digitais, digitalização e armazenamento de processos, verificação de conteúdo digital e logística de armazenamento e transporte de dados digitais. Documentação, elaboração e edição de documentos, assegurando a clareza e a segurança das informações. Controle eletrônico de todas as tramitações ocorrentes.
+- **TRT 10th Region - Regional Labor Court (Outsourced) – Brasília-DF (2019-2021)**  
+  Management of digital files, digitization and storage of processes, verification of digital content, and logistics of data storage and transport. Documentation, preparation, and editing of documents, ensuring the clarity and security of information. Electronic control of all ongoing transactions.
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Linguagens e Ferramentas</h1></p>
+<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Languages and Tools</h1></p>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
