@@ -39,6 +39,15 @@ Currently building:
 
 ## 📌 Projects
 
+### 🛸 Portifolio Samuel
+> Portfólio profissional interativo com design system próprio e mini-games
+>
+> **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind 4 · Framer Motion · Vitest · Playwright · Vercel  
+> **Site:** [samuelmedeiros.vercel.app](https://samuelmedeiros.vercel.app)  
+> **Repo:** [Portifolio](https://github.com/Samuelfmedeiros/Portifolio)
+>
+> `nextjs` `react` `typescript` `framer-motion` `i18n` `seo` `lgpd` `222-tests`
+
 ### 🕷️ Arachne
 > Plataforma de inteligência de dados — extração web, RAG, processamento multi-formato
 >
@@ -55,14 +64,6 @@ Currently building:
 >
 > `stripe` `supabase` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
 
-### 🛸 Portifolio Samuel
-> Portfólio profissional interativo com design system próprio e mini-games
->
-> **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind 4 · Framer Motion · Vitest · Playwright · Vercel  
-> **Site:** [samuelmedeiros.vercel.app](https://samuelmedeiros.vercel.app)  
-> **Repo:** [Portifolio](https://github.com/Samuelfmedeiros/Portifolio)
->
-> `nextjs` `react` `typescript` `framer-motion` `i18n` `seo` `lgpd` `222-tests`
 
 ---
 
