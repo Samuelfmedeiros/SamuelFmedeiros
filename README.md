@@ -1,45 +1,73 @@
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Hello, Welcome!</h1></p>
-
-<p align="center" style="font-size: 16px;">
-    <a href="mailto:samuelandrademedeiros@gmail.com">Samuel Andrade Medeiros | Email</a><br>
-    <a href="https://www.linkedin.com/in/samuelandrademedeiros" target="_blank">Samuel Andrade Medeiros | LinkedIn</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Hello%2C+Welcome!;Samuel+Andrade+Medeiros;Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Python+%7C+FastAPI+%7C+Supabase" alt="Typing SVG" />
 </p>
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Summary</h1></p>
+<p align="center">
+  <a href="mailto:samuelandrademedeiros@gmail.com"><img src="https://img.shields.io/badge/Email-samuelandrademedeiros%40gmail.com-06B6D4?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/samuelandrademedeiros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-samuelandrademedeiros-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://samuelmedeiros.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-samuelmedeiros.vercel.app-06B6D4?style=flat-square&logo=vercel"/></a>
+</p>
 
-I have been working in the programming field for over 3 years, acquiring new skills and knowledge throughout my life. I usually seek solutions in a quick and creative way. I am focused on Full Stack development and Low-Code tools. I am a dedicated professional, always striving for continuous improvement, as the current job market is very dynamic and versatile.
+---
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Education</h1></p>
+## 🚀 About
 
-- **IESB - Institute of Education**  
-  Systems Analysis and Development  
-  Course Load: 2,500 hours
-  
-- **BOOTCAMP Full Stack SysMAP**    
-  Project: Full Stack Java Spring     
-  Course Load: 80 hours
+Full-stack developer with 3+ years building production SaaS platforms, scraping infrastructure, and payment systems. I design and deploy end-to-end — from frontend to database, from CI/CD to cloud infrastructure.
 
-- **Udemy - Oracle APEX from Beginner to Advanced**  
-  Course Load: 10 hours
+Currently building:
+- **PataPass (seu.pet)** — Pet walking marketplace with Stripe Connect, real-time GPS tracking, chat, and LGPD compliance
+- **Arachne** — Data intelligence platform: web scraping, RAG, multi-format extraction (PDF, audio, video, image)
+- **Capivara** — Personal secure hub with Umami analytics, admin dashboard, and service orchestration
 
-- **Udemy - Linux Terminal**  
-  Course Load: 6 hours
+---
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Experience</h1></p>
+## 🛠️ Stack
 
-- **TRT 10th Region - Regional Labor Court (Outsourced) – Brasília-DF (2019-2021)**  
-  Management of digital files, digitization and storage of processes, verification of digital content, and logistics of data storage and transport. Documentation, preparation, and editing of documents, ensuring the clarity and security of information. Electronic control of all ongoing transactions.
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React_19-000?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript) ![Vue](https://img.shields.io/badge/Vue-000?style=flat-square&logo=vue.js) ![Tailwind](https://img.shields.io/badge/Tailwind_4-000?style=flat-square&logo=tailwindcss) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer)
 
-<p style="text-align: center;"><h1 style="display: flex; justify-content: center;">Languages and Tools</h1></p>
+### Backend
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### Database & Infrastructure
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite) ![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logo=stripe) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions) ![Playwright](https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
+
+## 📌 Projects
+
+### 🐾 PataPass (seu.pet)
+> Marketplace de passeio para pets — tutores conectam com passeadores
+>
+> **Stack:** React 19 · Vite 8 · Supabase · Stripe Connect · Cloudflare Pages · MapLibre GL  
+> **Site:** [seu.pet](https://seu.pet)  
+> **Repo:** [dog-walk](https://github.com/Samuelfmedeiros/dog-walk)
+>
+> `stripe` `supabase` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
+
+### 🛸 Portifolio Samuel
+> Portfólio profissional interativo com design system próprio e mini-games
+>
+> **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind 4 · Framer Motion · Vitest · Playwright · Vercel  
+> **Site:** [samuelmedeiros.vercel.app](https://samuelmedeiros.vercel.app)  
+> **Repo:** [Portifolio](https://github.com/Samuelfmedeiros/Portifolio)
+>
+> `nextjs` `react` `typescript` `framer-motion` `i18n` `seo` `lgpd` `222-tests`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuelfmedeiros&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelfmedeiros&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>✨ Sempre construindo. Sempre aprendendo.</sub>
+</p>
