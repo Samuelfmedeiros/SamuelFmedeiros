@@ -39,6 +39,14 @@ Currently building:
 
 ## 📌 Projects
 
+### 🕷️ Arachne
+> Plataforma de inteligência de dados — extração web, RAG, processamento multi-formato
+>
+> **Stack:** Python · FastAPI · SQLite/FTS5 · Crawl4AI · Playwright · Tesseract OCR · Whisper  
+> **Site:** [arachne.seu.pet](https://arachne.seu.pet)  
+>
+> `scraping` `rag` `ocr` `vision` `audio-transcription` `anti-bot` `crawler`
+
 ### 🐾 PataPass (seu.pet)
 > Marketplace de passeio para pets — tutores conectam com passeadores
 >
