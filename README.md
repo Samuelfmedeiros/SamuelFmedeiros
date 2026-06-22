@@ -44,7 +44,6 @@ Currently building:
 >
 > **Stack:** React 19 · Vite 8 · Supabase · Stripe Connect · Cloudflare Pages · MapLibre GL  
 > **Site:** [seu.pet](https://seu.pet)  
-> **Repo:** [dog-walk](https://github.com/Samuelfmedeiros/dog-walk)
 >
 > `stripe` `supabase` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
 
