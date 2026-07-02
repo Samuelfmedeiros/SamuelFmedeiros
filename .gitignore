@@ -1,0 +1,18 @@
+# General
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+audio_*
+transcribe_input*
+*.ogg
+*.wav
+*.mp3
+screenshot*.png
+screenshot*.jpg
+captura*.png
