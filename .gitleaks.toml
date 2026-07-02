@@ -1,0 +1,23 @@
+title = "Profile Security Config"
+
+[allowlist]
+description = "Known safe patterns"
+paths = ['''README\.md''', '''docs/.*''']
+
+[[rules]]
+id = "audio-files"
+description = "Audio transcription files should not be committed"
+regex = '''audio_[a-f0-9]+\.(json|srt|tsv|txt|vtt|ogg|wav|mp3)$'''
+tags = ["audio", "transcription"]
+
+[[rules]]
+id = "screenshots"
+description = "Screenshots should not be in repos"
+regex = '''(screenshot|print|captura|snapshot)\.(png|jpg|jpeg|gif)$'''
+tags = ["media", "screenshot"]
+
+[[rules]]
+id = "env-files"
+description = "Environment files with secrets"
+regex = '''\.env(\.example|\.local)?$'''
+tags = ["configuration", "secrets"]
