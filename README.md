@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Hello%2C+Welcome!;Samuel+Andrade+Medeiros;Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Python+%7C+FastAPI+%7C+Supabase" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Hello%2C+Welcome!;Samuel+Andrade+Medeiros;Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Python+%7C+FastAPI+%7C+LLMs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Currently building:
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
 
 ### Database & Infrastructure
-![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite) ![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logo=stripe) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite) ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis) ![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logo=stripe) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
 
 ### Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions) ![Playwright](https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright)
@@ -59,10 +59,10 @@ Currently building:
 ### 🐾 PataPass (seu.pet)
 > Marketplace de passeio para pets — tutores conectam com passeadores
 >
-> **Stack:** React 19 · Vite 8 · Supabase · Stripe Connect · Cloudflare Pages · MapLibre GL  
+> **Stack:** React 19 · Vite 8 · FastAPI · asyncpg · Stripe Connect · Cloudflare Pages · MapLibre GL  
 > **Site:** [seu.pet](https://seu.pet)  
 >
-> `stripe` `supabase` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
+> `stripe` `fastapi` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
 
 
 ---
