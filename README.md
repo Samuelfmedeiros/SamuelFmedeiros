@@ -51,7 +51,7 @@ Currently building:
 ### 🕷️ Arachne
 > Plataforma de inteligência de dados — extração web, RAG, processamento multi-formato
 >
-> **Stack:** Python · FastAPI · SQLite/FTS5 · Crawl4AI · Playwright · Tesseract OCR · Whisper  
+> **Stack:** Python · FastAPI · PostgreSQL/pgvector · RAG · Browser Agent · Camoufox · Tesseract OCR · Whisper  
 > **Site:** [arachne.seu.pet](https://arachne.seu.pet)  
 >
 > `scraping` `rag` `ocr` `vision` `audio-transcription` `anti-bot` `crawler`
@@ -64,14 +64,34 @@ Currently building:
 >
 > `stripe` `fastapi` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
 
+### 🐹 Capivara
+> Hub pessoal seguro — painel admin, analytics (Umami), orquestração de serviços
+>
+> **Stack:** FastAPI · React 19 · TypeScript · SQLite · JWT · 2FA TOTP · Cloudflare (Tunnel/R2/D1)  
+> **Site:** [capivara.seu.pet](https://capivara.seu.pet)  
+>
+> `fastapi` `react` `2fa` `umami` `backup-r2` `d1`
+
+### 💜 LEVE LAVANDA
+> E-commerce de saboaria artesanal — Astro + Payload CMS
+>
+> **Stack:** Astro 7 · Tailwind 4 · Payload CMS · PostgreSQL · Mercado Pago  
+>
+> `astro` `e-commerce` `payload-cms` `tailwind` `design-system`
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samuelfmedeiros&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelfmedeiros&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuelfmedeiros&theme=dark&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositórios-17-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_Source-✅-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Senior_FullStack-Engineer-06B6D4?style=flat-square"/>
 </p>
 
 ---
