@@ -10,18 +10,17 @@
 
 ---
 
-## 🚀 About
+## About
 
 Full-stack developer with 3+ years building production SaaS platforms, scraping infrastructure, and payment systems. I design and deploy end-to-end — from frontend to database, from CI/CD to cloud infrastructure.
 
 Currently building:
 - **PataPass (seu.pet)** — Pet walking marketplace with Stripe Connect, real-time GPS tracking, chat, and LGPD compliance
 - **Arachne** — Data intelligence platform: web scraping, RAG, multi-format extraction (PDF, audio, video, image)
-- **Capivara** — Personal secure hub with Umami analytics, admin dashboard, and service orchestration
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React_19-000?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript) ![Vue](https://img.shields.io/badge/Vue-000?style=flat-square&logo=vue.js) ![Tailwind](https://img.shields.io/badge/Tailwind_4-000?style=flat-square&logo=tailwindcss) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer)
@@ -37,9 +36,9 @@ Currently building:
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🛸 Portifolio Samuel
+### Portifolio Samuel
 > Portfólio profissional interativo com design system próprio e mini-games
 >
 > **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind 4 · Framer Motion · Vitest · Playwright · Vercel  
@@ -48,7 +47,7 @@ Currently building:
 >
 > `nextjs` `react` `typescript` `framer-motion` `i18n` `seo` `lgpd` `222-tests`
 
-### 🕷️ Arachne
+### Arachne
 > Plataforma de inteligência de dados — extração web, RAG, processamento multi-formato
 >
 > **Stack:** Python · FastAPI · PostgreSQL/pgvector · RAG · Browser Agent · Camoufox · Tesseract OCR · Whisper  
@@ -56,7 +55,7 @@ Currently building:
 >
 > `scraping` `rag` `ocr` `vision` `audio-transcription` `anti-bot` `crawler`
 
-### 🐾 PataPass (seu.pet)
+### PataPass (seu.pet)
 > Marketplace de passeio para pets — tutores conectam com passeadores
 >
 > **Stack:** React 19 · Vite 8 · FastAPI · asyncpg · Stripe Connect · Cloudflare Pages · MapLibre GL  
@@ -64,38 +63,21 @@ Currently building:
 >
 > `stripe` `fastapi` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
 
-### 🐹 Capivara
-> Hub pessoal seguro — painel admin, analytics (Umami), orquestração de serviços
->
-> **Stack:** FastAPI · React 19 · TypeScript · SQLite · JWT · 2FA TOTP · Cloudflare (Tunnel/R2/D1)  
-> **Site:** [capivara.seu.pet](https://capivara.seu.pet)  
->
-> `fastapi` `react` `2fa` `umami` `backup-r2` `d1`
-
-### 💜 LEVE LAVANDA
-> E-commerce de saboaria artesanal — Astro + Payload CMS
->
-> **Stack:** Astro 7 · Tailwind 4 · Payload CMS · PostgreSQL · Mercado Pago  
->
-> `astro` `e-commerce` `payload-cms` `tailwind` `design-system`
-
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuelfmedeiros&theme=dark&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Samuelfmedeiros&theme=dark&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositórios-17-06B6D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open_Source-✅-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Repositórios-9-06B6D4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Senior_FullStack-Engineer-06B6D4?style=flat-square"/>
 </p>
 
 ---
 
 <p align="center">
-  <sub>✨ Sempre construindo. Sempre aprendendo.</sub>
+  <sub>Sempre construindo. Sempre aprendendo.</sub>
 </p>
