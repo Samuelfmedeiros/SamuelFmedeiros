@@ -68,14 +68,16 @@ Currently building:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Samuelfmedeiros&theme=dark&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" height="160"/>
+  <img src="https://img.shields.io/badge/Repos-C3D2E3?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Stars-F6511D?style=flat-square&logo=github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Open_Source-06B6D4?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositórios-9-06B6D4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Senior_FullStack-Engineer-06B6D4?style=flat-square"/>
 </p>
 
+---
 ---
 
 <p align="center">
