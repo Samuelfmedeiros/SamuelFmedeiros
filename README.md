@@ -1,85 +1,66 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=06B6D4&center=true&vCenter=true&width=500&lines=Hello%2C+Welcome!;Samuel+Andrade+Medeiros;Full-Stack+Engineer;Next.js+%7C+React+%7C+TypeScript;Python+%7C+FastAPI+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&color=06B6D4&center=true&vCenter=true&width=560&lines=Samuel+Medeiros;Full-Stack+Engineer;I+build+systems+that+ship;Next.js+%7C+Python+%7C+LLM+infra" alt="Samuel Medeiros" />
 </p>
 
 <p align="center">
-  <a href="mailto:samuelandrademedeiros@gmail.com"><img src="https://img.shields.io/badge/Email-samuelandrademedeiros%40gmail.com-06B6D4?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/samuelandrademedeiros" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-samuelandrademedeiros-0A66C2?style=flat-square&logo=linkedin"/></a>
-  <a href="https://samuelmedeiros.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-samuelmedeiros.vercel.app-06B6D4?style=flat-square&logo=vercel"/></a>
+  <a href="mailto:samuelandrademedeiros@gmail.com"><img src="https://img.shields.io/badge/Email-samuelandrademedeiros%40gmail.com-06B6D4?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/samuelandrademedeiros"><img src="https://img.shields.io/badge/LinkedIn-in%2Fsamuelandrademedeiros-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://samuelmedeiros.vercel.app"><img src="https://img.shields.io/badge/Portfolio-samuelmedeiros.vercel.app-06B6D4?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://lifelog.seu.pet"><img src="https://img.shields.io/badge/Blog-lifelog.seu.pet-111?style=flat-square&logo=astro&logoColor=white" /></a>
 </p>
 
 ---
 
-## About
+## What I do
 
-Full-stack developer with 3+ years building production SaaS platforms, scraping infrastructure, and payment systems. I design and deploy end-to-end — from frontend to database, from CI/CD to cloud infrastructure.
+I build and operate production systems end to end — frontend, API, database, CI/CD, cloud and the boring parts nobody demos: migrations, observability, backups, rollback.
 
-Currently building:
-- **PataPass (seu.pet)** — Pet walking marketplace with Stripe Connect, real-time GPS tracking, chat, and LGPD compliance
-- **Arachne** — Data intelligence platform: web scraping, RAG, multi-format extraction (PDF, audio, video, image)
+Three things show up in everything I ship:
+
+- **Measured, not claimed** — test counts, benchmark numbers and health checks instead of adjectives.
+- **Fail closed** — a quality gate that blocks delivery beats a checklist that nobody reads.
+- **Automation with an owner** — every recurring job has an agent, a log line and an alert when it breaks.
+
+---
+
+## Featured work
+
+| Project | What it is | Proof |
+|---|---|---|
+| **[Arachne](https://arachne.seu.pet)** — data intelligence platform | Web scraping, multi-format extraction (PDF, audio, video, image), RAG and 237 MCP tools for Claude/Cursor/Codex | MCP server rated **Grade A · 93/100** on mcprush |
+| **[PataPass](https://seu.pet)** — pet-care marketplace | Tutors book walkers: Stripe Connect payouts, real-time GPS, chat, LGPD-ready | Live product, mobile-first PWA |
+| **[Portfolio](https://samuelmedeiros.vercel.app)** | Own design system, custom animations, i18n, mini-games | **222+ automated tests**, Vitest + Playwright |
+| **[LifeLog](https://lifelog.seu.pet)** | Personal engineering blog, PT + EN | Astro 7 · MDX · 80 bilingual posts, 6 themes |
+| **[ai-test-loop](https://skills.seu.pet/gratis/ai-test-loop)** | Independent critic scores an artifact 0–100 and blocks delivery below the threshold | `npx ai-test-loop` · **zero install** · stdlib-only |
+| **[TatuEngine-Benchmarks](https://github.com/Samuelfmedeiros/TatuEngine-Benchmarks)** | Benchmarks for a ternary inference engine | Held-out evaluation + contamination detector |
 
 ---
 
 ## Stack
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React_19-000?style=flat-square&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript) ![Vue](https://img.shields.io/badge/Vue-000?style=flat-square&logo=vue.js) ![Tailwind](https://img.shields.io/badge/Tailwind_4-000?style=flat-square&logo=tailwindcss) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000?style=flat-square&logo=framer)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
-
-### Database & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql) ![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite) ![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis) ![Stripe](https://img.shields.io/badge/Stripe-000?style=flat-square&logo=stripe) ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=flat-square&logo=cloudflare) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
-
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions) ![Playwright](https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright)
+**Frontend** — Next.js 16 · React 19 · Vue · TypeScript · Tailwind 4 · Framer Motion · Astro 7
+**Backend** — Python · FastAPI · Node.js · asyncpg · SQLAlchemy
+**Data** — PostgreSQL/pgvector · Qdrant · SQLite · Redis
+**AI** — LLMs, RAG, MCP servers, whisper, OCR, llama.cpp / Ollama
+**Infra** — Docker · k3s · Cloudflare · Vercel · GitHub Actions · Playwright
 
 ---
 
-## Projects
-
-### Portifolio Samuel
-> Portfólio profissional interativo com design system próprio e mini-games
->
-> **Stack:** Next.js 16 · React 19 · TypeScript · Tailwind 4 · Framer Motion · Vitest · Playwright · Vercel  
-> **Site:** [samuelmedeiros.vercel.app](https://samuelmedeiros.vercel.app)  
-> **Repo:** [Portifolio](https://github.com/Samuelfmedeiros/Portifolio)
->
-> `nextjs` `react` `typescript` `framer-motion` `i18n` `seo` `lgpd` `222-tests`
-
-### Arachne
-> Plataforma de inteligência de dados — extração web, RAG, processamento multi-formato
->
-> **Stack:** Python · FastAPI · PostgreSQL/pgvector · RAG · Browser Agent · Camoufox · Tesseract OCR · Whisper  
-> **Site:** [arachne.seu.pet](https://arachne.seu.pet)  
->
-> `scraping` `rag` `ocr` `vision` `audio-transcription` `anti-bot` `crawler`
-
-### PataPass (seu.pet)
-> Marketplace de passeio para pets — tutores conectam com passeadores
->
-> **Stack:** React 19 · Vite 8 · FastAPI · asyncpg · Stripe Connect · Cloudflare Pages · MapLibre GL  
-> **Site:** [seu.pet](https://seu.pet)  
->
-> `stripe` `fastapi` `gps-tracking` `real-time-chat` `lgpd` `mobile-first`
-
----
-
-## GitHub Stats
+## Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-C3D2E3?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Stars-F6511D?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Open_Source-06B6D4?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Senior_FullStack-Engineer-06B6D4?style=flat-square"/>
+  <img src="https://img.shields.io/github/last-commit/Samuelfmedeiros/Portifolio?style=flat-square&label=last%20commit&color=06B6D4" />
+  <img src="https://img.shields.io/npm/v/ai-test-loop?style=flat-square&label=ai-test-loop&color=CB3837" />
+  <img src="https://img.shields.io/badge/MCP%20tools-237-2f9e44?style=flat-square" />
+  <img src="https://img.shields.io/badge/public%20repos-13-111?style=flat-square&logo=github" />
 </p>
 
 ---
----
 
-<p align="center">
-  <sub>Sempre construindo. Sempre aprendendo.</sub>
-</p>
+## Now
+
+- Hardening the Arachne MCP server and its Oito Olhos visual-regression suite.
+- Writing about the parts that break: infra, agents, deploy gates.
+- Available for freelance and contract work — full-stack product, scraping/data pipelines, LLM tooling.
+
+<p align="center"><sub>Brasília, Brazil · PT-BR &amp; EN</sub></p>
