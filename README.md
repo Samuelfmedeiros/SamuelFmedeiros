@@ -7,6 +7,7 @@
   <a href="https://linkedin.com/in/samuelandrademedeiros"><img src="https://img.shields.io/badge/LinkedIn-in%2Fsamuelandrademedeiros-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://samuelmedeiros.vercel.app"><img src="https://img.shields.io/badge/Portfolio-samuelmedeiros.vercel.app-06B6D4?style=flat-square&logo=vercel&logoColor=white" /></a>
   <a href="https://lifelog.seu.pet"><img src="https://img.shields.io/badge/Blog-lifelog.seu.pet-111?style=flat-square&logo=astro&logoColor=white" /></a>
+  <a href="https://skills.seu.pet"><img src="https://img.shields.io/badge/Skills-skills.seu.pet-635BFF?style=flat-square&logo=stripe&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,6 +32,7 @@ Three things show up in everything I ship:
 | **[PataPass](https://seu.pet)** — pet-care marketplace | Tutors book walkers: Stripe Connect payouts, real-time GPS, chat, LGPD-ready | Live product, mobile-first PWA |
 | **[Portfolio](https://samuelmedeiros.vercel.app)** | Own design system, custom animations, i18n, mini-games | **222+ automated tests**, Vitest + Playwright |
 | **[LifeLog](https://lifelog.seu.pet)** | Personal engineering blog, PT + EN | Astro 7 · MDX · 80 bilingual posts, 6 themes |
+| **[Skills Shop](https://skills.seu.pet)** | Store of paid skills for coding agents — QA gate, MCP preflight, visual diff, training guard | **Live** · Stripe checkout · instant delivery |
 | **[ai-test-loop](https://skills.seu.pet/gratis/ai-test-loop)** | Independent critic scores an artifact 0–100 and blocks delivery below the threshold | `npx ai-test-loop` · **zero install** · stdlib-only |
 | **[TatuEngine-Benchmarks](https://github.com/Samuelfmedeiros/TatuEngine-Benchmarks)** | Benchmarks for a ternary inference engine | Held-out evaluation + contamination detector |
 
